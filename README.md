@@ -13,6 +13,7 @@
 - `/usr/share/fluxbox/styles`
 4. Choose your theme via the Fluxbox menu
 5. Restart Fluxbox for the theme to apply correctly
+6. Disable "Show Pictures" in Toolbar settings and Tab Options
 
 ## Screenshots:
 
