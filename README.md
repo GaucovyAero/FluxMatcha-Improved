@@ -1,5 +1,5 @@
 # FluxMatcha-Improved
- - FluxMatcha theme by ItzSelenux, edited by GaucovyAero
+ - An edit of the Fluxbox theme FluxMatcha originally made by ItzSelenux
  - Some .xpm elements are directly taken from the xfwm4 directories in the original Matcha-gtk-theme: https://github.com/vinceliuice/Matcha-gtk-theme
 
 ## Installation
